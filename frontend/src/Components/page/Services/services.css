@@ -1,0 +1,33 @@
+/* services.css */
+
+.header_services {
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  .Services {
+    padding: 20px;
+  }
+  
+  .Services h1 {
+    margin-bottom: 20px;
+  }
+  
+  .Services h2 {
+    margin-bottom: 10px;
+  }
+  
+  .Services ul {
+    list-style: none;
+    margin-left: 20px;
+  }
+  
+  .Services ul li {
+    margin-bottom: 5px;
+  }
+  
+  .Services p {
+    margin-top: 20px;
+  }
+  

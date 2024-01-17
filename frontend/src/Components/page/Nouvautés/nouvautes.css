@@ -1,0 +1,41 @@
+
+
+.header_nouveautes {
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  .Nouveautes {
+    padding: 20px;
+    color: #fff;
+  }
+  
+  .Nouveautes h1 {
+    margin-bottom: 20px;
+  }
+  
+  .Nouveautes p {
+    margin-bottom: 20px;
+  }
+  
+  .new-releases {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .release-item {
+    width: 45%;
+    margin-bottom: 20px;
+  }
+  
+  .release-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .release-item h3 {
+    margin-top: 10px;
+  }
+  
